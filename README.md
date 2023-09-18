@@ -1,4 +1,4 @@
-# An online pizza ordering platform built React & Tailwind CSS
+# An online pizza ordering platform built with React & Tailwind CSS
 
 ## Live Demo
 ![](./public/demo.png)
