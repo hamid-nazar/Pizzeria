@@ -1,12 +1,20 @@
-# An online pizza ordering platform built with React & Tailwind CSS
+# An online pizza ordering platform built with React + Vite & Tailwind CSS
 
-## Live Demo
-![](./public/demo.png)
+## Demo
+![](./public/images/image1.png)
+![](./public/images/image2.png)
+![](./public/images/image3.png)
+![](./public/images/image4.png)
+![](./public/images/image5.png)
+![](./public/images/image6.png)
+![](./public/images/image7.png)
+![](./public/images/image8.png)
+
 
 ## Getting started 🚀
 - git clone
 - npm install
-- npm start
+- npm run dev
 
 ## Functionalities
 - can order pizza
@@ -14,7 +22,7 @@
 - get notification upon arrival 
 
 ## Tech stack
-- React
+- React + Vite
 - React Redux
 - React Router 
 - Tailwind CSS
