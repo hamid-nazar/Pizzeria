@@ -1,7 +1,7 @@
 # An online pizza ordering platform built with React + Vite & Tailwind CSS
 
 ## Demo
-![](./public/images/image1.png)
+
 ![](./public/images/image2.png)
 ![](./public/images/image3.png)
 ![](./public/images/image4.png)
